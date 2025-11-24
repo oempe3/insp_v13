@@ -13,7 +13,7 @@ const SCRIPT_URL_CARREGAR_INTERNA =
 
 // URLs dos WebApps do Google Apps Script para envio dos relatórios.
 const SCRIPT_URL_INTERNA =
-  'https://script.google.com/macros/s/AKfycbwA3VIQxj-Xa_Rl907ON-jZJKD3MFmiBKg4JT4_DIT-gdNEJMfhQEICwlS8Y6rOSF1e/exec';
+  'https://script.google.com/macros/s/AKfycbzhfNsjAGEgp93CgL34uxhF27ZAsbQAbEEvtfH3ZQCV1BtHCiuosif64bRlRx8sK1cH-g/exec';
 const SCRIPT_URL_EXTERNA =
   'https://script.google.com/macros/s/AKfycbxpU9oTqUKpRnSaPu2Ywtj3IhJnH4PEzULkPEnjQpFAiwsepAdONhTlNdmVIesWAAxPNA/exec';
 
